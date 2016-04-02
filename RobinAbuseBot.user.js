@@ -135,7 +135,8 @@ function greet() {
         // Otherwise, announce your presence (assuming the room isn't too big)
         sendMessage(
             embolden('Abuse Bot v' + myVersion + ' loaded! ')
-            + 'Abandoners will be harassed! ᕕ( ᐛ )ᕗ'
+            + 'Abandoners will be harassed! ᕕ( ᐛ )ᕗ '
+            + 'https://redd.it/4d05po'
         );
     }
 
