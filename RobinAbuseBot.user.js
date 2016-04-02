@@ -131,7 +131,7 @@ function greet() {
         // If the creator is present, greet them
         sendMessage('ALL HAIL ' + creator.toUpperCase() + ', CREATOR OF ABUSE BOT', true);
 
-    } else if (robinUsers.length < 30) {
+    } else if (robinUsers.length < 250) {
         // Otherwise, announce your presence (assuming the room isn't too big)
         sendMessage(
             embolden('Abuse Bot v' + myVersion + ' loaded! ')
