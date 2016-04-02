@@ -2,6 +2,8 @@
 // @name        RobinAbuseBot
 // @version     1.1
 // @namespace   https://github.com/llamasoft/RobinAbuseBot
+// @supportUrl  https://github.com/llamasoft/RobinAbuseBot
+// @updateUrl   https://github.com/llamasoft/RobinAbuseBot/raw/master/RobinAbuseBot.user.js
 // @include     https://www.reddit.com/robin
 // @include     https://www.reddit.com/robin/
 // @require     https://code.jquery.com/jquery-1.12.0.min.js
