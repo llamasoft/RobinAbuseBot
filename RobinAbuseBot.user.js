@@ -67,6 +67,7 @@ function makeInsult() {
         'half-witted', 'flaccid', 'dastardly', 'contemptible', 'cowardly', 'underhanded', 'vile',
         'despicable', 'rotten', 'worthless', 'abominable', 'repulsive', 'cotton-headed', 'ham-fisted',
         'slime-coated', 'dishonored', 'dirt-eating', 'slimy', 'walrus-looking', 'vulgar', 'one-eyed',
+        'useless', 'cantankerous'
     ];
 
     var nouns = [
@@ -77,7 +78,7 @@ function makeInsult() {
         'lint licker', 'booger factory', 'shitlord', 'gutter slag', 'redneck', 'tool', 'pirate hooker',
         'bootlicker', 'cow tipper', 'baby shaker', 'loaf pincher', 'fart knocker', 'Wal-Mart greeter',
         'traitor', 'maggot burger', 'pimple farmer', 'paramecium brain', 'eunuch', 'pancake', 'cannibal',
-        'numbnuts', 'bag of hammers', 'ninnymuggins',
+        'numbnuts', 'bag of hammers', 'ninnymuggins', 'doorknob', 'donkey', 'wench',
     ];
 
     // Pick a random adjective and noun to make an insult
